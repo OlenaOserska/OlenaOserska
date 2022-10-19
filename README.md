@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Ukrain </h3>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffun.tochka.net%2Fua%2Fpictures%2F68370-kraina-odna-ukraina-edina%2F&psig=AOvVaw02Q13F-pTyEa_XCjqdc8Yf&ust=1666254300221000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNDXso_v6_oCFQAAAAAdAAAAABAT" alt="Країна одна. Україна єдина! Прикольні картинки на fun.tochka.net від 16 Березня, 2014">
